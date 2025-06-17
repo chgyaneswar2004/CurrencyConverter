@@ -64,7 +64,7 @@ export default App
 const MainContainer = styled.div`
   width: 100%;
   min-height: 100vh;
- background-image: url("https://raw.githubusercontent.com/chgyaneswar2004/CurrencyConverter/b13a95647fc28fe33f5ee9763544a68c689651c7/public/images/background-img.jpg");
+ background-image: url("https://raw.githubusercontent.com/chgyaneswar2004/RPS/230ffcc091e05fe839bc94492e47a8ba5bb7f54b/public/images/bg.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
